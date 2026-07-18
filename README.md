@@ -359,47 +359,39 @@ Users can filter dashboard results by:
 
 ## 🖥 Customer Shopping Behavior Dashboard
 
+# 📷 Dashboard Preview
+
+## 🖥️ Customer Shopping Behavior Dashboard
+
 <p align="center">
-
-<img src="Images/customer_shopping_behavior_dashboard.png" width="100%">
-
+  <img src="Images/customer_shopping_behavior_dashboard.png" width="100%">
 </p>
 
 ---
 
-## 📈 Revenue Analysis
+## 📈 Revenue & Sales Analysis
 
 <p align="center">
-
-<img src="Images/revenue_by_category.png" width="48%">
-
-<img src="Images/revenue_by_age_group.png" width="48%">
-
+  <img src="Images/revenue_by_category.png" width="48%">
+  <img src="Images/sales_by_category.png" width="48%">
 </p>
 
 ---
 
-## 🛍 Sales Analysis
+## 👥 Age Group Analysis
 
 <p align="center">
-
-<img src="Images/sales_by_category.png" width="48%">
-
-<img src="Images/sales_by_age_group.png" width="48%">
-
+  <img src="Images/revenue_by_age_group.png" width="48%">
+  <img src="Images/sales_by_age_group.png" width="48%">
 </p>
 
 ---
 
-## 👥 Subscription Distribution
+## 💳 Subscription Distribution
 
 <p align="center">
-
-<img src="Images/subscription_distribution.png" width="55%">
-
+  <img src="Images/subscription_distribution.png" width="55%">
 </p>
-
----
 
 # 📈 Key Business Insights
 
