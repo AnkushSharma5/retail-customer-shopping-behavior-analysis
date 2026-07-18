@@ -168,34 +168,30 @@ The primary objectives of this project are:
 
 # 🔄 Project Workflow
 
+```text
+Customer Shopping Dataset
+          │
+          ▼
+Data Cleaning (Python)
+          │
+          ▼
+Exploratory Data Analysis (EDA)
+          │
+          ▼
+Feature Engineering
+          │
+          ▼
+PostgreSQL Database
+          │
+          ▼
+SQL Business Analysis
+          │
+          ▼
+Power BI Dashboard
+          │
+          ▼
+Business Insights & Recommendations
 ```
-
-```
-              Customer Shopping Dataset
-                         │
-                         ▼
-                Data Cleaning (Python)
-                         │
-                         ▼
-           Exploratory Data Analysis (EDA)
-                         │
-                         ▼
-             Feature Engineering (Python)
-                         │
-                         ▼
-             PostgreSQL Database Import
-                         │
-                         ▼
-             SQL Business Analysis
-                         │
-                         ▼
-             Interactive Power BI Dashboard
-                         │
-                         ▼
-          Business Insights & Recommendations
-```
-
----
 
 # 🧹 Data Cleaning & Preprocessing
 
@@ -358,10 +354,6 @@ Users can filter dashboard results by:
 # 📷 Dashboard Preview
 
 ## 🖥 Customer Shopping Behavior Dashboard
-
-# 📷 Dashboard Preview
-
-## 🖥️ Customer Shopping Behavior Dashboard
 
 <p align="center">
   <img src="Images/customer_shopping_behavior_dashboard.png" width="100%">
@@ -722,11 +714,7 @@ If you found this project helpful, please consider giving it a **⭐ Star** on G
 It motivates me to build more Data Analytics and Machine Learning projects.
 
 ---
-
 <p align="center">
-
-### Thank you for visiting this repository!
-
-**Happy Learning! 🚀**
-
+  <strong>Thank you for visiting this repository!</strong><br>
+  Happy Learning! 🚀
 </p>
